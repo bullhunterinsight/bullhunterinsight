@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<rect width="256" height="256" rx="48" fill="#030405"/>
+<circle cx="128" cy="128" r="104" fill="none" stroke="#ffd24a" stroke-width="10"/>
+<text x="128" y="151" text-anchor="middle" font-family="Arial,sans-serif" font-size="88" font-weight="900" fill="#ffd24a">BH</text>
+</svg>

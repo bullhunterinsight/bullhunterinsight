@@ -1,0 +1,26 @@
+BULLHUNTERINSIGHT FINAL WEBSITE
+
+Preferred domain:
+https://bullhunterinsight.com/
+
+Files:
+index.html
+ea-download.html
+ea-100l.html
+bullhunterinsight-banner.png
+BULLHUNTERINSIGHT-100L-0.10.ex5
+favicon.svg
+social-preview.svg
+robots.txt
+sitemap.xml
+netlify.toml
+
+Netlify:
+1. Extract this ZIP.
+2. Go to https://app.netlify.com/drop
+3. Drag the extracted folder onto Netlify Drop.
+4. After publishing, open Domain settings and add bullhunterinsight.com.
+5. At your domain registrar, add the DNS records Netlify shows.
+6. Enable HTTPS in Netlify.
+
+The site is static and requires no build command.

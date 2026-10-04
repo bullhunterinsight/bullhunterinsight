@@ -1,0 +1,15 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/BULLHUNTERINSIGHT-100L-0.10.ex5"
+  [headers.values]
+    Content-Type = "application/octet-stream"
+    Content-Disposition = "attachment; filename=\"BULLHUNTERINSIGHT-100L-0.10.ex5\""
